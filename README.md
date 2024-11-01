@@ -1,2 +1,1 @@
-# staj-7-8.-hafta-zet
-stajımdaki 7 ve 8. haftalardaki çalışmalarımın özetidir
+ekteki world belgesi tüm çalışmalarınmı açıklamaktadır, ilk iki kısım teorik üçüncü kısım da ekteki kodun açıklaması ve sonuçlarıdır.
